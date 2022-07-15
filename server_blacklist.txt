@@ -1,39 +1,3 @@
 "serverblacklist"
 {
-	"server"
-	{
-		"name"		"www.nighteam.com [US] | MANOR EVENT 24/7 - FAST RESPAWN"
-		"date"		"1315723899"
-		"addr"		"64.31.12.26:27118"
-	}
-	"server"
-	{
-		"name"		"All or Nothing Payload "
-		"date"		"1356827393"
-		"addr"		"64.79.106.222:2001"
-	}
-	"server"
-	{
-		"name"		"Hell's Kitchen - Attack/Defend in Chicago"
-		"date"		"1364836769"
-		"addr"		"64.79.106.137:2006"
-	}
-	"server"
-	{
-		"name"		"Nexus | Thundermountain | LA"
-		"date"		"1373782030"
-		"addr"		"173.208.108.250:27075"
-	}
-	"server"
-	{
-		"name"		"=(eGO)= 24/7 HARVEST [GameME] edge-gamers.com"
-		"date"		"1384311261"
-		"addr"		"67.228.175.240:27015"
-	}
-	"server"
-	{
-		"name"		"    skial.com | BADWATER | LA"
-		"date"		"1386647439"
-		"addr"		"66.150.155.158:2000"
-	}
 }
